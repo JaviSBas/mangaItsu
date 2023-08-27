@@ -1,0 +1,7 @@
+{
+  "name": "listadoManga",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
