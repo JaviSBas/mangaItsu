@@ -1,0 +1,2 @@
+# mangaItsu
+List of publications
