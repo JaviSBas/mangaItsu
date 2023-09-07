@@ -1,0 +1,70 @@
+.request-grid {
+    border-top: 1px solid var(--background-light);
+    padding: 12px;
+    background: var(--font-white);
+    margin-top: 2px;
+
+    .no-padding {
+        padding: 2px;
+        display: flex;
+        align-items: center;
+    }
+
+    .request-icon {
+        width: 16px !important;
+        height: 16px !important;
+        margin-right: 5px;
+    }
+}
+
+.pos-rel {
+    position: relative;
+}
+
+.top-5 {
+    top: 5px;
+}
+
+.top-15 {
+    top: 15px;
+}
+
+.pt-3 {
+    padding-top: 3px;
+}
+
+.ios .detail-header .header-buttons {
+    margin: 0 15px 0 15px;
+}
+
+.header-block {
+    height: 73px;
+}
+
+:host {
+    ::ng-deep {
+        ion-img {
+            width: 110px;
+            height: 150px;
+            object-fit: cover;
+            padding: 5px;
+        }
+
+        ion-thumbnail {
+            width: 110px !important;
+            height: 150px !important;
+            padding: 5px !important;
+        }
+
+        ion-label {
+            padding-left: 12px;
+        }
+    }
+}
+
+.break-label {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100px;
+}

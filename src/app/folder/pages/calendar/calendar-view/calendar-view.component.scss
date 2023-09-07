@@ -1,0 +1,17 @@
+.calendar-block {
+    width: 100%;
+    height: 350px;
+}
+
+.header-day {
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px 0 20px;
+    background: white;
+
+    p {
+        margin-bottom: 0;
+        font-weight: bold;
+        font-size: 17px;
+    }
+}

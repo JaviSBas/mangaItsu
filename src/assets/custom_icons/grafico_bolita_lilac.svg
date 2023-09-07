@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6" height="6" viewBox="0 0 6 6">
+    <defs>
+        <style>.a{fill:#D1A6FA;}</style>
+    </defs>
+    <circle class="a" cx="3" cy="3" r="3" transform="translate(0 6) rotate(-90)"/>
+</svg>
